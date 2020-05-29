@@ -10,3 +10,5 @@ Navigate to localhost:8082 to access the panel
 Default password : letmein
 
 ![none](../master/hash/public/images/images2.png?raw=true)
+
+New changes made
